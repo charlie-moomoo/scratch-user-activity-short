@@ -1,10 +1,10 @@
 <link href="//dict.toastfriends.cf/style.css" rel="stylesheet" />
-<font>請輸入glb檔網址：<input type="text" id="glb-url" placeholder="請輸入glb檔網址" onchange="seturl()" /></font>
+<font>請輸入Scratch使用者名稱：<input type="text" id="scr-username" placeholder="請輸入Scratch使用者名稱" onchange="seturl()" /></font>
 <script>
     function seturl(){
-      var urleleme = document.getElementById('glb-url'); 
-      var RealUrl = urleleme.value; 
-      document.getElementById('copywhat').value='http://3dv.c-moo.cf/' + RealUrl;
+      var usreleme = document.getElementById('scr-username'); 
+      var RealUsr = usreleme.value; 
+      document.getElementById('copywhat').value='http://3dv.c-moo.cf/' + RealUsr;
     }
   </script>
 <input id="copywhat" value="" style="display:none;"/><button class="copy_coupon">點擊複製網址</button>
