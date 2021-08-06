@@ -1,3 +1,3 @@
-# 3dviewer-short
-[3dviewer](https://github.com/charlie-moomoo/3dviewer)的短網址產生器
+# scratch-user-activity-short
+[scratch-user-activity](https://github.com/charlie-moomoo/scratch-user-activity)的短網址產生器
 
